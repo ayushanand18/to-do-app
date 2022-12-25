@@ -1,2 +1,2 @@
-# to-do-app
-A simple yet intuitive to-do list app
+# To Do App
+Ayush Anand
