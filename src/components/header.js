@@ -17,7 +17,7 @@ export default function Head(){
     return (
         <div className="head">
             <Typography color="lightgrey" variant="h3" align="left" component="h1" gutterButton>
-                todo: today
+                todo app
             </Typography>
             <div align="left">
                 <Typography variant="subtitle1" fontWeight="bold" color="lightgrey">
