@@ -1,2 +1,4 @@
 # To Do App
-Ayush Anand
+For Bain & Company's Assessment
+
+author: Ayush Anand
