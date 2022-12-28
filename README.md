@@ -1,4 +1,4 @@
 # To Do App
-For Bain & Company's Assessment
+For Koyo's Assessment
 
 author: Ayush Anand
